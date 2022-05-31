@@ -1,0 +1,225 @@
+﻿Country,Exports,Imports,Code
+Afghanistan,501,473,AFG
+Albania,51,30,ALB
+Algeria,636,973,DZA
+Andorra,0,0,AND
+Angola,417,2197,AGO
+Anguilla,0,0,AIA
+Antarctica,0,1,ATA
+Antigua and Barbuda,2,0,ATG
+Argentina,1246,4025,ARG
+Armenia,26,121,ARM
+Aruba,5,2,ABW
+Australia,7472,15175,AUS
+Austria,515,746,AUT
+Azerbaijan,32,105,AZE
+Bahamas,7,3,BHS
+Bahrain,832,662,BHR
+Bangladesh,14593,1801,BGD
+Barbados,15,1,BRB
+Belarus,64,380,BLR
+Belgium,8813,9020,BEL
+Belize,13,0,BLZ
+Benin,622,371,BEN
+Bermuda,5,0,BMU
+Bhutan,796,510,BTN
+Bolivia,110,1976,BOL
+Bosnia and Herzegovina,15,3,BIH
+Botswana,253,483,BWA
+Brazil,5882,5233,BRA
+British Virgin Islands,0,15,VGB
+Brunei,39,379,BRN
+Bulgaria,229,145,BGR
+Burkina Faso,182,412,BFA
+Burundi,56,0,BDI
+Cabo Verde,6,4,CPV
+Cambodia,175,82,KHM
+Cameroon,368,543,CMR
+Canada,3372,2858,CAN
+Cayman Islands,6,0,CYM
+Central African Republic,18,0,CAF
+Chad,49,3,TCD
+Chile,1076,1282,CHL
+China,19807,85144,CHN
+Colombia,1231,2867,COL
+Comoros,20,14,COM
+Congo,143,911,COG
+Cook Is.,0,0,COK
+Costa Rica,134,59,CRI
+Croatia,439,57,HRV
+Cuba,26,1,CUB
+Cyprus,102,70,CYP
+Czechia,557,543,CZE
+Democratic Republic of Congo,517,22,COD
+Denmark,841,696,DNK
+Djibouti,661,39,DJI
+Dominica,3,0,DMA
+Dominican Republic,287,610,DOM
+Ecuador,278,898,ECU
+Egypt,3383,3224,EGY
+El Salvador,148,4,SLV
+Equatorial Guinea,12,904,GNQ
+Eritrea,9,0,ERI
+Estonia,56,67,EST
+Eswatini,23,235,SWZ
+Ethiopia,624,58,ETH
+Falkland Islands,0,0,FLK
+Faroe Islands,0,0,FRO
+Fiji,52,0,FJI
+Finland,312,801,FIN
+French Polynesia,9,1,PYF
+France,5633,5255,FRA
+Gabon,49,1024,GAB
+Gambia,143,42,GMB
+Georgia,148,170,GEO
+Germany,8852,13537,DEU
+Ghana,1006,1423,GHA
+Greece,900,283,GRC
+Greenland,1,0,GRL
+Grenada,4,1,GRD
+Guam,2,0,GUM
+Guatemala,507,20,GTM
+Guernsey,0,0,GGY
+Guinea,515,3538,GIN
+Guinea Bissau,10,163,GNB
+Guyana,60,157,GUY
+Haiti,88,21,HTI
+Honduras,291,19,HND
+Hong Kong,10037,17246,HKG
+Hungary,499,264,HUN
+Iceland,11,6,ISL
+British Indian Ocean Territory,0,0,IOT
+Indonesia,7524,15529,IDN
+Iran,1283,366,IRN
+Iraq,1957,27745,IRQ
+Ireland,621,1052,IRL
+Israel,4306,2591,ISR
+Italy,7324,4536,ITA
+Ivory Coast,677,325,CIV
+Jamaica,73,2,JAM
+Japan,5629,13102,JPN
+Jordan,798,1674,JOR
+Kazakhstan,207,320,KAZ
+Kenya,2309,136,KEN
+Kiribati,2,0,KIR
+Kuwait,1102,9764,KWT
+Kyrgyzstan,30,2,KGZ
+Laos,14,1,LAO
+Latvia,124,101,LVA
+Lebanon,274,29,LBN
+Lesotho,11,0,LSO
+Liberia,225,20,LBR
+Libya,198,354,LBY
+Liechtenstein,2,1,LIE
+Lithuania,292,195,LTU
+Luxembourg,13,60,LUX
+Macao,12,20,MAC
+Macedonia,26,1,MKD
+Madagascar,293,128,MDG
+Malawi,129,104,MWI
+Malaysia,6318,11196,MYS
+Maldives,636,45,MDV
+Mali,190,17,MLI
+Malta,465,21,MLT
+Marshall Islands,1,1,MHL
+Mauritania,84,10,MRT
+Mauritius,666,65,MUS
+Mayotte,3,1,MYT
+Mexico,4020,3894,MEX
+Micronesia,1,0,FSM
+Moldova,8,0,MDA
+Monaco,3,0,MCO
+Mongolia,23,1,MNG
+Montenegro,20,0,MNE
+Montserrat,0,0,MSR
+Morocco,767,2038,MAR
+Mozambique,1772,1700,MOZ
+Myanmar,808,866,MMR
+Northern Mariana Islands,1,0,MNP
+Namibia,108,45,NAM
+Nauru,0,23,NRU
+Nepal,8728,1288,NPL
+Netherlands,10719,4029,NLD
+New Caledonia,17,8,NCL
+New Zealand,446,343,NZL
+Nicaragua,96,9,NIC
+Niger,84,8,NER
+Nigeria,4305,8875,NGA
+Niue,0,0,NIU
+Norfolk Island,0,0,NFK
+North Korea,0,6,PRK
+Norway,348,1963,NOR
+Oman,2404,5891,OMN
+Pakistan,457,2,PAK
+Palau,0,0,PLW
+Palestine,2,0,PSE
+Panama,327,291,PAN
+Papua New Guinea,62,311,PNG
+Paraguay,193,15,PRY
+Peru,822,2593,PER
+Philippines,1902,666,PHL
+Pitcairn Islands,0,0,PCN
+Poland,2461,981,POL
+Portugal,1094,152,PRT
+Puerto Rico,234,45,PRI
+Qatar,1676,11823,QAT
+Romania,539,244,ROU
+Russia,3180,8689,RUS
+Rwanda,114,7,RWA
+South Sudan,25,1,SSD
+Saint Helena,0,0,SHN
+Saint Lucia,4,0,LCA
+Samoa,2,0,WSM
+San Marino,0,0,SMR
+Sao Tome and Principe,2,0,STP
+Saudi Arabia,7895,29809,SAU
+Senegal,858,650,SEN
+Serbia,80,10,SRB
+Seychelles,39,3,SYC
+Sierra Leone,166,15,SLE
+Singapore,10227,16594,SGP
+Sint Maarten,0,0,SXM
+Slovakia,154,92,SVK
+Slovenia,443,276,SVN
+Solomon Islands,2,23,SLB
+Somalia,664,17,SOM
+South Africa,5412,9858,ZAF
+South Korea,6977,15854,KOR
+Spain,4212,1875,ESP
+Sri Lanka,5020,927,LKA
+St. Kitts and Nevis,2,1,KNA
+St. Vincent and Grenadines,1,0,VCT
+Sudan,984,118,SDN
+Suriname,15,29,SUR
+Sweden,930,1316,SWE
+Switzerland,1233,22799,CHE
+Syria,96,14,SYR
+Taiwan,2500,5570,TWN
+Tajikistan,30,11,TJK
+Tanzania,1811,2088,TZA
+Thailand,5159,8296,THA
+Timor Leste,24,0,TLS
+Togo,2334,298,TGO
+Tonga,1,0,TON
+Trinidad and Tobago,84,112,TTO
+Tunisia,365,295,TUN
+Turkey,7663,1863,TUR
+Turkmenistan,97,7,TKM
+Turks and Caicos Islands,1,0,TCA
+US Virgin Islands,4,0,VIR
+Uganda,635,128,UGA
+Ukraine,467,2624,UKR
+United Arab Emirates,24961,40356,ARE
+United Kingdom,9817,6588,GBR
+United States of America,68450,38800,USA
+Uruguay,141,152,URY
+Uzbekistan,248,67,UZB
+Vanuatu,3,0,VUT
+Vatican,0,0,VAT
+Venezuela,315,69,VEN
+Vietnam,6130,6507,VNM
+W. Sahara,0,0,ESH
+Wallis and Futuna Islands,0,0,WLF
+Yemen,695,160,YEM
+Zambia,308,115,ZMB
+Zimbabwe,182,6,ZWE
